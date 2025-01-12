@@ -10,3 +10,6 @@ Currently using [https://huggingface.co/datasets/KingNish/reasoning-base-20k] bu
 # Usage
 Update the model name in the training.py file. Once update save he file and then launch the training using trco
 Save the script and 
+
+# Huggingface Models
+Few of these trained models are located at [https://huggingface.co/collections/ewre324/chain-of-thought-reasoning-677cd3d30a4d2007a88b159a]
