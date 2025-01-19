@@ -1,5 +1,5 @@
 # CoT-Finetune-LLM
-A simple script for distributed finetuning and teaching any typical Large Language model thinking using Chain of Thought.   
+A simple script for distributed finetuning and teaching any typical Large Language model thinking using Chain of Thought learning methods   
 
 # Based on 
 Original Script based on this disscussion [https://huggingface.co/datasets/KingNish/reasoning-base-20k/discussions/3#6708df6dcd35b971ea0fb6ff].
